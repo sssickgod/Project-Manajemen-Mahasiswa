@@ -3,6 +3,7 @@
 Program ini dibuat menggunakan bahasa pemrograman Pascal dan bertujuan untuk mengelola data mahasiswa. Fitur utamanya meliputi penambahan, penampilan, pencarian, dan penghapusan data mahasiswa.
 
 Fitur Program
+
 Tambah Data Mahasiswa
 Menambahkan data mahasiswa baru (Nama, NIM, Program Studi, dan IPK).
 
