@@ -11,19 +11,19 @@ Program ini dibuat menggunakan bahasa pemrograman Pascal dan bertujuan untuk men
 
 # Fitur Program
 
-Tambah Data Mahasiswa
+1. Tambah Data Mahasiswa
 Menambahkan data mahasiswa baru (Nama, NIM, Program Studi, dan IPK).
 
-Tampilkan Data Mahasiswa
+2. Tampilkan Data Mahasiswa
 Menampilkan seluruh data mahasiswa yang tersimpan di dalam program.
 
-Hapus Data Mahasiswa
+3. Hapus Data Mahasiswa
 Menghapus data mahasiswa berdasarkan NIM, dengan otomatis menggeser data yang tersisa.
 
-Cari Mahasiswa
+4. Cari Mahasiswa
 Fungsi pencarian mahasiswa berdasarkan NIM untuk mempermudah pengelolaan data.
 
-Keluar Program
+5. Keluar Program
 Mengakhiri program secara aman.
 
 # Struktur Program
