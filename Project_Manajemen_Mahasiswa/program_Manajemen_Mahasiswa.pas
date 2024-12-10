@@ -1,4 +1,4 @@
-program ManajemenMahasiswa;
+program Manajemen_Mahasiswaaa;
 
 uses crt;
 
