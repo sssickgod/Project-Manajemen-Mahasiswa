@@ -29,7 +29,6 @@ Mengakhiri program secara aman.
 # Struktur Program
 
 Tipe Data
-
 Record (BiodataMahasiswa): Menyimpan informasi mahasiswa berupa Nama, NIM, Prodi, dan IPK.
 Array (Mahasiswa): Menyimpan data mahasiswa hingga maksimal 100 entri.
 Prosedur Utama
