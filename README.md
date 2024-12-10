@@ -1,5 +1,10 @@
 # Project-Manajemen-Mahasiswa
 
+Kelompok Makan
+1. Fransiskus Aldi P. Napitu - 241401065
+2. Rusydi Arrafi - 241401023
+3. Nur Mukhlas Syahfitrah - 241401026
+
 Program ini dibuat menggunakan bahasa pemrograman Pascal dan bertujuan untuk mengelola data mahasiswa. Fitur utamanya meliputi penambahan, penampilan, pencarian, dan penghapusan data mahasiswa.
 
 # Fitur Program
