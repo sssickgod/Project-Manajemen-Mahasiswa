@@ -5,6 +5,8 @@ Kelompok Makan
 2. Rusydi Arrafi - 241401023
 3. Nur Mukhlas Syahfitrah - 241401026
 
+# Deskripsi Singkat
+
 Program ini dibuat menggunakan bahasa pemrograman Pascal dan bertujuan untuk mengelola data mahasiswa. Fitur utamanya meliputi penambahan, penampilan, pencarian, dan penghapusan data mahasiswa.
 
 # Fitur Program
